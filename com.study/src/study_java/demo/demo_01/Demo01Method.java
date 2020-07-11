@@ -1,4 +1,4 @@
-package study_java.demo.demo01;
+package study_java.demo.demo_01;
 /*
   方法其实就是若干语句的功能集合
   方法好比一个工厂
