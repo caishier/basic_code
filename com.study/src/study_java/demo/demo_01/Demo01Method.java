@@ -22,7 +22,3 @@ package study_java.demo.demo_01;
 参数类型：进入方法的数据是什么类型
 参数名称：进入方法的数据对应的变量名称
         */
-public class Demo01Method {
-
-
-}
