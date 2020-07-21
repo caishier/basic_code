@@ -1,4 +1,4 @@
-package study_java.demo.demo_01;
+package demo01;
 
 /**
  * @Author caixuan

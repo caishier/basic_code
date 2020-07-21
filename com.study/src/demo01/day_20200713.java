@@ -1,4 +1,4 @@
-package study_java.demo.demo_01;
+package demo01;
 //矩形打印
 public class day_20200713 {
     public static void main(String[] args) {

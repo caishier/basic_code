@@ -1,4 +1,4 @@
-package study_java.demo.demo_01;
+package demo01;
 //使用三元运算符和标准的if-else语句分别实现：取两个数当做的最大值
 public class day_20200712 {
     public static void main(String[] args) {
