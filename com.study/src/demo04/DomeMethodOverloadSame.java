@@ -1,4 +1,4 @@
-package dome04;
+package demo04;
 
 /**
  * @Author caixuan
